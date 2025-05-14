@@ -18,7 +18,10 @@
 This data analysis project aims to provide insight into the sales performance of Nestle Food Company over the past year. By analysing various aspect of sales data, I seek to indentify trends, make data-driven recommendations, and gain a deeper understanding of the company's performance.
 
 
+![Dashboard](Nestle Dashboard 2.png)
 
+
+![Nestle Dashboard 2](https://github.com/user-attachments/assets/854f540d-8966-4289-9d82-72a4be46208d)
 
 ### Data Source
 
