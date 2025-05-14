@@ -75,21 +75,10 @@ EDA Involved exploring the sales data to answer key questions, such as:
 
 ### References 
 
-😄
-
-💻
-
-|Heading1|Heading2|
-|--------|--------|
-|Content|Content2|
-|Excel|Powerbi|
 
 
 
-'Column_1'
 
 
 
-**bold**
 
-*italic*
