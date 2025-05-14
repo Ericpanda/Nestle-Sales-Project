@@ -14,6 +14,7 @@
 - [Recommendations](#recommendations)
 
 ## Project Overview
+---
 
 This data analysis project aims to provide insight into the sales performance of Nestle Food Company over the past year. By analysing various aspect of sales data, I seek to indentify trends, make data-driven recommendations, and gain a deeper understanding of the company's performance.
 
@@ -46,9 +47,9 @@ In the initial data preparation phase, I performed the following task:
 
 EDA Involved exploring the sales data to answer key questions, such as:
 
-Which location sold the most?
-Which year made more revenue?
-Which Product sold the most?
+1. Which location sold the most?
+2. Which year made more revenue?
+3. Which Product sold the most?
 
 
 ### Result and Findings
@@ -73,3 +74,22 @@ Which Product sold the most?
 
 
 ### References 
+
+😄
+
+💻
+
+|Heading1|Heading2|
+|--------|--------|
+|Content|Content2|
+|Excel|Powerbi|
+
+
+
+'Column_1'
+
+
+
+**bold**
+
+*italic*
