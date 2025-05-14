@@ -17,6 +17,9 @@
 
 This data analysis project aims to provide insight into the sales performance of Nestle Food Company over the past year. By analysing various aspect of sales data, I seek to indentify trends, make data-driven recommendations, and gain a deeper understanding of the company's performance.
 
+
+
+
 ### Data Source
 
 Sales Data: The primary dataset used for this analysis is the 'sales_data.csv' file, containing datailed information about each sales made by the company.
